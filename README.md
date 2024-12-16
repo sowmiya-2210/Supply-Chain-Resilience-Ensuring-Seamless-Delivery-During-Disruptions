@@ -1,5 +1,6 @@
 # Supply-Chain-Resilience-Ensuring-Seamless-Delivery-During-Disruptions
-  
+  ##Supply Chain Instant Noodles Delivery
+
 
 ## Overview  
 This project analyzes the supply chain for instant noodles using exploratory data analysis (EDA) and machine learning regression models. It identifies key factors affecting production weight (`product_wg_ton`) and predicts output using various models to optimize supply chain efficiency.  
