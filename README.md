@@ -1,5 +1,5 @@
 # Supply-Chain-Resilience-Ensuring-Seamless-Delivery-During-Disruptions
-   Supply Chain Instant Noodles Delivery
+Supply Chain Instant Noodles Delivery
 
 
 ## Overview  
